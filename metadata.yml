@@ -1,0 +1,6 @@
+homepage: "https://www.sunrun.com"
+documentation: "https://github.com/SunRun/exp-gtm-consent-template/blob/master/README.md"
+versions:
+  # Latest version
+  - sha: 41330a630321d3122a3dc6c56c862b1e85e4f73b
+    changeNotes: Initial Release.
